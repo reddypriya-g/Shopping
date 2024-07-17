@@ -10,7 +10,7 @@ https://shopping-sable-one.vercel.app
      ```
    - Alternatively, download the code as a ZIP file and extract it.
 
-2. **Navigate to Project Directory :**
+2. **Navigate to Project Directory**
 
 3. **Explore the Structure :**
 The project structure:
