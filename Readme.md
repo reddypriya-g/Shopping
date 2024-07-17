@@ -1,56 +1,41 @@
-# Coding Assessment L-2 Code Submission Process with Boilerplate
-
-Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
+# Live Link 
 
 ## Getting Started
 
-1. **Clone or Download:**
+1. **Clone or Download :**
    - If using Git, clone the repository using the following command:
      ```
-     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
+     git clone https://github.com/reddypriya-g/Shopping.git
      ```
    - Alternatively, download the code as a ZIP file and extract it.
 
-2. **Navigate to Project Directory:**
+2. **Navigate to Project Directory :**
 
-3. **Explore the Structure:**
-Take a moment to review the project structure:
+3. **Explore the Structure :**
+The project structure:
 
         project-root/
         |-- index.html
         |-- style.css
         |-- script.js
         |-- README.md
-- `index.html`: Main HTML file for your project.
+- `index.html`: Main HTML file for the project.
 - `style.css`: CSS file for styling.
 - `script.js`: JavaScript file for scripting logic.
-- `README.md`: Documentation for your project.
+- `README.md`: Documentation for the project.
+
+## How to Run
+
+4. **Using a Web Browser :**
+- **Locate the HTML File :** Navigate to the folder where your HTML file is saved.
   
-> **Important:** Avoid using additional files or a single file for your code. Feel free to organize asset files by creating a separate folder.
+- **Open with Browser :** Right-click on the HTML file and choose your preferred web browser (e.g., Chrome, Firefox, Safari).
+  
+5. **Using a Local Web Server :**
+- **Install Node.js :** Download and install Node.js
 
-## Development and Testing
+- **Install http-server :** Open your command line interface (CLI) and Run the following command to install http-server :   `npm install -g http-server`
 
-4. **Start Working:**
-- Read all requirements that are shared with design files.
-- Open `index.html` in your browser to view the initial state of the project, And start coding.
-- Modify the `style.css` and `script.js` files to implement your solution.
-5. **Testing:**
-- Test your code to ensure it produces the expected output.
-- Ensure that the console (Developer Tools) does not display any errors.
+- **Run the Server :** Navigate to the directory containing your HTML file and Start the server using folowing command : `http-server`.
+- Open your browser and go to http://localhost:8080 (or the URL provided by http-server) to see your HTML file.
 
-
----
-## Updated Submission Guidelines
-
-1. Fill out the form provided at [this link](https://forms.gle/MxuzmExHGXBh3hVk8).
-2. Provide the GitHub repository link of your project in the designated field.
-3. Share the hosted link of your project in the appropriate field.
-
-
-## Important Notes
-
-- Do not use any third-party libraries or frameworks.
-- Ensure that your project works as intended and is free from errors.
-- Make sure to include clear instructions on how to run your project (if necessary).
-
-Good luck! We look forward to reviewing your submission.
