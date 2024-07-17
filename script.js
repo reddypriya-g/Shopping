@@ -66,7 +66,7 @@ function displayProducts(products) {
             <h2 class="title-text" title="${product.title}"><span>${truncateText(product.title,11)}</span><span>${product.vendor}</span></h2>
             <div class="price-details">
                 <p class="price">Rs ${product.price}</p>
-                ${product.compare_at_price ? `<p class="compare-price">₹${product.compare_at_price}</p>` : ''}
+                ${product.compare_at_price ? `<p class="compare-price">${product.compare_at_price}</p>` : ''}
                 ${discount ? `<p class="discount">${discount}% off</p>` : ''}
             </div>
             <button class="add-to-cart">Add to Cart</button>
