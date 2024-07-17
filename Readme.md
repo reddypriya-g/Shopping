@@ -40,3 +40,8 @@ The project structure:
 - **Run the Server :** Navigate to the directory containing your HTML file and Start the server using folowing command : `http-server`.
 - Open your browser and go to http://localhost:8080 (or the URL provided by http-server) to see your HTML file.
 
+> ## Note
+> - It is a Responsive Design.
+> - Some features like on hover are added , you can see them when you hover on the product image (dress) , you can see the effect.
+> - Product title is truncated , to see the full name , you can hover on the title (name of the product) .
+
